@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+# Display some information
+echo "No tests for this buildpack. Skipping."
+# Exit OK
+exit 0
